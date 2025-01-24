@@ -1,2 +1,2 @@
-# TP-CoursA061
-TP déploiement application IA V2
+# cours-A61
+Préparation de la solution d'IA pour la mise en production
